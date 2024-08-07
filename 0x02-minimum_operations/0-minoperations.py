@@ -23,3 +23,4 @@ def minOperations(n):
         # increment the root until it evenly-divides n
         root += 1
     return ops
+
